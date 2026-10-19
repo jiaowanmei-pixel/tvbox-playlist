@@ -1,0 +1,181 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="NBCNewsNOW.us" tvg-name="NBC News NOW | NBC新闻" group-title="01 英语新闻 · 美国",NBC News NOW | NBC新闻
+https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99984003
+#EXTINF:-1 tvg-id="BloombergTV.us" tvg-name="Bloomberg TV US | 彭博美国" group-title="01 英语新闻 · 美国",Bloomberg TV US | 彭博美国
+https://bloomberg.com/media-manifest/streams/us.m3u8
+#EXTINF:-1 tvg-id="BloombergTVPlus.us" tvg-name="Bloomberg TV+ | 彭博财经" group-title="01 英语新闻 · 美国",Bloomberg TV+ | 彭博财经
+https://bloomberg.com/media-manifest/streams/phoenix-us.m3u8
+#EXTINF:-1 tvg-id="BloombergOriginals.us" tvg-name="Bloomberg Originals | 彭博原创" group-title="01 英语新闻 · 美国",Bloomberg Originals | 彭博原创
+https://bloomberg.com/media-manifest/streams/qt.m3u8
+#EXTINF:-1 tvg-id="CheddarNews.us" tvg-name="Cheddar News | 科技财经" group-title="01 英语新闻 · 美国",Cheddar News | 科技财经
+https://hls.livecdn.io/cheddar.com/cheddar/playlist.m3u8
+#EXTINF:-1 tvg-id="FoxWeather.us" tvg-name="Fox Weather | 美国天气新闻" group-title="01 英语新闻 · 美国",Fox Weather | 美国天气新闻
+https://247wlive.foxweather.com/stream/index.m3u8
+#EXTINF:-1 tvg-id="CourtTV.us" tvg-name="Court TV | 美国庭审新闻" group-title="01 英语新闻 · 美国",Court TV | 美国庭审新闻
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8
+#EXTINF:-1 tvg-id="CNNOriginals.us" tvg-name="CNN Originals | CNN纪录专题" group-title="01 英语新闻 · 美国",CNN Originals | CNN纪录专题
+https://amg01918-cnnus-amg01918c2-vizio-us-9192.playouts.now.amagi.tv/playlist/amg01918-cnnus-cnnoriginals-vizious/playlist.m3u8
+#EXTINF:-1 tvg-id="WorldChannel.us" tvg-name="PBS World | 美国公共电视" group-title="01 英语新闻 · 美国",PBS World | 美国公共电视
+https://world.lls.pbs.org/index.m3u8
+#EXTINF:-1 tvg-id="Newsmax2.us" tvg-name="Newsmax 2 | 美国新闻" group-title="01 英语新闻 · 美国",Newsmax 2 | 美国新闻
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+#EXTINF:-1 tvg-id="SkyNewsInternational.uk" tvg-name="Sky News UK | 英国天空新闻" group-title="02 英语新闻 · 英国",Sky News UK | 英国天空新闻
+https://linear901-oo-hls0-prd-gtm.delivery.skycdp.com/v1/master/6404a5d732e04991ed59ac7790b61cc065c9aabd/prod-gb-lin-skynews-hls-25-web/stream06/streamPlaylist.m3u8
+#EXTINF:-1 tvg-id="GBNews.uk" tvg-name="GB News | 英国新闻" group-title="02 英语新闻 · 英国",GB News | 英国新闻
+https://hlspackager.akamaized.net/live/DB/GB_NEWS/HLS/GB_NEWS.m3u8
+#EXTINF:-1 tvg-id="BloombergTVEurope.uk" tvg-name="Bloomberg Europe | 彭博欧洲" group-title="02 英语新闻 · 英国",Bloomberg Europe | 彭博欧洲
+https://bloomberg.com/media-manifest/streams/eu.m3u8
+#EXTINF:-1 tvg-id="SkyNewsWeather.uk" tvg-name="Sky News Weather | 天气专题" group-title="02 英语新闻 · 英国",Sky News Weather | 天气专题
+https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="France24English.fr" tvg-name="France 24 English | 法国24英语" group-title="03 英语新闻 · 法国及国际",France 24 English | 法国24英语
+https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_2300.m3u8
+#EXTINF:-1 tvg-id="EuronewsEnglish.fr" tvg-name="Euronews English | 欧洲新闻英语" group-title="03 英语新闻 · 法国及国际",Euronews English | 欧洲新闻英语
+https://cdn-euronews.akamaized.net/live/eds/euronews-en/25002/index.m3u8
+#EXTINF:-1 tvg-id="AfricanewsEnglish.fr" tvg-name="Africanews English | 非洲新闻英语" group-title="03 英语新闻 · 法国及国际",Africanews English | 非洲新闻英语
+https://cdn-euronews.akamaized.net/live/eds/africanews-en/25049/index.m3u8
+#EXTINF:-1 tvg-id="Africa24English.fr" tvg-name="Africa 24 English | 非洲24英语" group-title="03 英语新闻 · 法国及国际",Africa 24 English | 非洲24英语
+https://edge20.vedge.infomaniak.com/livecast/ik:africa24english/manifest.m3u8
+#EXTINF:-1 tvg-id="DWEnglish.de" tvg-name="DW English | 德国之声英语" group-title="03 英语新闻 · 法国及国际",DW English | 德国之声英语
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
+#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-name="Al Jazeera English | 半岛英语" group-title="03 英语新闻 · 法国及国际",Al Jazeera English | 半岛英语
+https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
+#EXTINF:-1 tvg-id="ABCNews.au" tvg-name="ABC News Australia | 澳大利亚ABC" group-title="03 英语新闻 · 法国及国际",ABC News Australia | 澳大利亚ABC
+https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
+#EXTINF:-1 tvg-id="CGTN.cn" tvg-name="CGTN English | CGTN英语" group-title="03 英语新闻 · 法国及国际",CGTN English | CGTN英语
+https://english-livebkali.cgtn.com/live/encgtn.m3u8
+#EXTINF:-1 tvg-id="CGTNGlobalBiz.cn" tvg-name="CGTN Global Biz | 全球商业" group-title="03 英语新闻 · 法国及国际",CGTN Global Biz | 全球商业
+https://fastlive.cctvplus.com/out/v1/2b3d8a0c805d437f9dc85b764c2ac599/index.m3u8
+#EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-name="NHK World-Japan | 日本国际英语" group-title="03 英语新闻 · 法国及国际",NHK World-Japan | 日本国际英语
+https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
+#EXTINF:-1 tvg-id="CNAOriginals.sg" tvg-name="CNA Originals | 亚洲新闻专题" group-title="03 英语新闻 · 法国及国际",CNA Originals | 亚洲新闻专题
+https://amg01082-cna-amg01082c1-rlaxx-us-11304.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="France24French.fr" tvg-name="France 24 Français | 法国24法语" group-title="04 法语新闻 · France / Francophonie",France 24 Français | 法国24法语
+https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_2300.m3u8
+#EXTINF:-1 tvg-id="EuronewsFrench.fr" tvg-name="Euronews Français | 欧洲新闻法语" group-title="04 法语新闻 · France / Francophonie",Euronews Français | 欧洲新闻法语
+https://cdn-euronews.akamaized.net/live/eds/euronews-fr/25026/index.m3u8
+#EXTINF:-1 tvg-id="BFMTV.fr" tvg-name="BFMTV | 法国滚动新闻" group-title="04 法语新闻 · France / Francophonie",BFMTV | 法国滚动新闻
+https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/master.m3u8
+#EXTINF:-1 tvg-id="BFMBusiness.fr" tvg-name="BFM Business | 法国财经" group-title="04 法语新闻 · France / Francophonie",BFM Business | 法国财经
+https://live-cdn-stream-euw1.bfmb.bct.nextradiotv.com/master.m3u8
+#EXTINF:-1 tvg-id="BFM2.fr" tvg-name="BFM2 | 法国新闻专题" group-title="04 法语新闻 · France / Francophonie",BFM2 | 法国新闻专题
+https://d1ib1gsg71oarf.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-scp7wda722jph/BFM2_FR.m3u8
+#EXTINF:-1 tvg-id="20MinutesTV.fr" tvg-name="20 Minutes TV | 法国新闻杂志" group-title="04 法语新闻 · France / Francophonie",20 Minutes TV | 法国新闻杂志
+https://live-20minutestv.digiteka.com/1961167769/index.m3u8
+#EXTINF:-1 tvg-id="AfricanewsFrench.fr" tvg-name="Africanews Français | 非洲新闻法语" group-title="04 法语新闻 · France / Francophonie",Africanews Français | 非洲新闻法语
+https://cdn-euronews.akamaized.net/live/eds/africanews-fr/25050/index.m3u8
+#EXTINF:-1 tvg-id="RTSInfo.ch" tvg-name="RTS Info | 瑞士法语新闻" group-title="04 法语新闻 · France / Francophonie",RTS Info | 瑞士法语新闻
+https://rtsinfo-d.akamaized.net/out/v1/2b7ae2e1ba3f43c6aba15bced153baf5/index.m3u8
+#EXTINF:-1 tvg-id="ICIRDI.ca" tvg-name="ICI RDI | 加拿大法语新闻" group-title="04 法语新闻 · France / Francophonie",ICI RDI | 加拿大法语新闻
+https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
+#EXTINF:-1 tvg-id="FilmRiseClassicTV.us" tvg-name="FilmRise Classic TV | 经典剧集" group-title="05 英语电影 / 电视剧",FilmRise Classic TV | 经典剧集
+https://d2tv4k5moji5m7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-lu4pzh9l4b57p/master.m3u8
+#EXTINF:-1 tvg-id="HallmarkMoviesAndMore.us" tvg-name="Hallmark Movies and More | 温情电影" group-title="05 英语电影 / 电视剧",Hallmark Movies and More | 温情电影
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991709
+#EXTINF:-1 tvg-id="GreatMovies.uk" tvg-name="GREAT! movies | 英国电影" group-title="05 英语电影 / 电视剧",GREAT! movies | 英国电影
+https://amg01753-narrativeuk-amg01753c3-lg-gb-1833.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatmovies-lggb/playlist.m3u8
+#EXTINF:-1 tvg-id="GreatRomance.uk" tvg-name="GREAT! romance | 英国爱情电影" group-title="05 英语电影 / 电视剧",GREAT! romance | 英国爱情电影
+https://amg01753-narrativeuk-amg01753c2-lg-gb-1832.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatchristmas-lggb/playlist.m3u8
+#EXTINF:-1 tvg-id="MrBeanLiveAction.uk" tvg-name="Mr Bean Live Action | 憨豆先生" group-title="05 英语电影 / 电视剧",Mr Bean Live Action | 憨豆先生
+https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
+#EXTINF:-1 tvg-id="TheGrahamNortonShow.uk" tvg-name="The Graham Norton Show | 英国脱口秀" group-title="05 英语电影 / 电视剧",The Graham Norton Show | 英国脱口秀
+https://amg00654-itv-amg00654c35-rakuten-gb-7598.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="MagnificentMoviesNetwork.us" tvg-name="Magnificent Movies Network | 经典电影" group-title="05 英语电影 / 电视剧",Magnificent Movies Network | 经典电影
+https://mmn1-301f.kxcdn.com/hls/MMN-HLS.m3u8
+#EXTINF:-1 tvg-id="WhiplashCinema.us" tvg-name="Whiplash Cinema | 独立电影" group-title="05 英语电影 / 电视剧",Whiplash Cinema | 独立电影
+https://cdn.whiplash.cc/whiplash-cinema/index.m3u8
+#EXTINF:-1 tvg-id="TVSFilmNoirNetwork.us" tvg-name="TVS Film Noir | 黑色电影" group-title="05 英语电影 / 电视剧",TVS Film Noir | 黑色电影
+https://rpn.bozztv.com/trn01/gusa-TVSFilmNoir/index.m3u8
+#EXTINF:-1 tvg-id="TVSNostalgiaMovies.us" tvg-name="TVS Nostalgia Movies | 怀旧电影" group-title="05 英语电影 / 电视剧",TVS Nostalgia Movies | 怀旧电影
+https://rpn.bozztv.com/gusa/gusa-tvsNostalgiaMovies/index.m3u8
+#EXTINF:-1 tvg-id="TVSComedyNetwork.us" tvg-name="TVS Comedy Network | 经典喜剧" group-title="05 英语电影 / 电视剧",TVS Comedy Network | 经典喜剧
+https://rpn.bozztv.com/gusa/gusa-tvscomedy/index.m3u8
+#EXTINF:-1 tvg-id="TVSClassicMovies.us" tvg-name="TVS Classic Movies | 老电影" group-title="05 英语电影 / 电视剧",TVS Classic Movies | 老电影
+https://rpn.bozztv.com/gusa/gusa-tvsclassicmovies/index.m3u8
+#EXTINF:-1 tvg-id="PBSKids.us" tvg-name="PBS Kids | 英语少儿" group-title="05 英语电影 / 电视剧",PBS Kids | 英语少儿
+https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8
+#EXTINF:-1 tvg-id="SonyOneBlacklist.fr" tvg-name="Sony One Blacklist | 黑名单法语" group-title="06 法语电影 / 电视剧",Sony One Blacklist | 黑名单法语
+https://d1x87j1jmcypab.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="SonyOneHitsAction.fr" tvg-name="Sony One Hits Action | 动作片法语" group-title="06 法语电影 / 电视剧",Sony One Hits Action | 动作片法语
+https://d1tvu4639eiqii.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="SonyOneHitsComedie.fr" tvg-name="Sony One Hits Comedie | 喜剧法语" group-title="06 法语电影 / 电视剧",Sony One Hits Comedie | 喜剧法语
+https://d3nvxupr08boay.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="SonyOneFavoris.fr" tvg-name="Sony One Favoris | 法语热门剧" group-title="06 法语电影 / 电视剧",Sony One Favoris | 法语热门剧
+https://d21fkiqbljd83t.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="NoovoCinema.ca" tvg-name="Noovo Cinema | 加拿大法语电影" group-title="06 法语电影 / 电视剧",Noovo Cinema | 加拿大法语电影
+https://dk4ogs46bjxcw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xr1ct045l70mz/Noovo_Cinema.m3u8
+#EXTINF:-1 tvg-id="NoovoComedies.ca" tvg-name="Noovo Comedies | 加拿大法语喜剧" group-title="06 法语电影 / 电视剧",Noovo Comedies | 加拿大法语喜剧
+https://d2s8iafdyzconc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6x2p3ho0vw00a/Noovo_Comedies_Home.m3u8
+#EXTINF:-1 tvg-id="Gong.fr" tvg-name="Gong | 法语娱乐动漫" group-title="06 法语电影 / 电视剧",Gong | 法语娱乐动漫
+https://amg01596-gongnetworks-gong-ono-vh5f2.amagi.tv/1080p-vtt/index.m3u8
+#EXTINF:-1 tvg-id="DocumentaryPlus.us" tvg-name="Documentary+ | 英语纪录片" group-title="07 纪录片 / 自然 / 人文",Documentary+ | 英语纪录片
+https://ef79b15c8c7c46c7a9de9d33001dbd07.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-859-DOCUMENTARYPLUS-DOCUMENTARYPLUS/mt/documentaryplus/859/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="DocumentaryPlusInternational.us" tvg-name="Documentary+ International | 国际纪录片" group-title="07 纪录片 / 自然 / 人文",Documentary+ International | 国际纪录片
+https://1d153317c8db4250b3789601274e2402.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-887-DOCUMENTARYINTERNATIONAL-DOCUMENTARYPLUS/mt/documentaryplus/887/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="CGTNDocumentary.cn" tvg-name="CGTN Documentary | 央视纪录英语" group-title="07 纪录片 / 自然 / 人文",CGTN Documentary | 央视纪录英语
+https://hlspackager.akamaized.net/live/DB/CGTN_DOCUMENTARY/HLS/CGTN_DOCUMENTARY.m3u8
+#EXTINF:-1 tvg-id="WildEarth.za" tvg-name="WildEarth | 野生动物英语" group-title="07 纪录片 / 自然 / 人文",WildEarth | 野生动物英语
+https://wildearth-ono.amagi.tv/playlist/amg01290-wildearth-oando/playlist.m3u8
+#EXTINF:-1 tvg-id="TerraMaterWILDEnglish.de" tvg-name="Terra Mater WILD | 自然动物英语" group-title="07 纪录片 / 自然 / 人文",Terra Mater WILD | 自然动物英语
+https://amg01775-amg01775c1-amgplt0343.playout.now3.amagi.tv/playlist/amg01775-amg01775c1-amgplt0343/playlist.m3u8
+#EXTINF:-1 tvg-id="AdventureEarth.de" tvg-name="Adventure Earth | 探索地球" group-title="07 纪录片 / 自然 / 人文",Adventure Earth | 探索地球
+https://autentic-adventure-earth-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="AutenticHistory.de" tvg-name="Autentic History | 历史英语" group-title="07 纪录片 / 自然 / 人文",Autentic History | 历史英语
+https://9e754fa707344ccca6d84955c8fcaf36.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticHistory/playlist.m3u8
+#EXTINF:-1 tvg-id="AutenticTravel.de" tvg-name="Autentic Travel | 旅行英语" group-title="07 纪录片 / 自然 / 人文",Autentic Travel | 旅行英语
+https://cb0c87cc605942ff9766a4e6744bbadc.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticTravel/playlist.m3u8
+#EXTINF:-1 tvg-id="WedoBigStories.ch" tvg-name="Wedo Big Stories | 深度纪录片" group-title="07 纪录片 / 自然 / 人文",Wedo Big Stories | 深度纪录片
+https://amg00735-videosolutionsa-wedobigdocs-ono-0urlz.amagi.tv/playlist/amg00735-videosolutionsa-wedobigdocs-ono/playlist.m3u8
+#EXTINF:-1 tvg-id="ClassicArtsShowcase.us" tvg-name="Classic Arts Showcase | 艺术纪录英语" group-title="07 纪录片 / 自然 / 人文",Classic Arts Showcase | 艺术纪录英语
+https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
+#EXTINF:-1 tvg-id="RMCDecouverte.fr" tvg-name="RMC Decouverte | 法语探索" group-title="07 纪录片 / 自然 / 人文",RMC Decouverte | 法语探索
+https://d16zzycxcd0m0r.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hixvx5kymecr9/RMC_Decouverte_FR.m3u8
+#EXTINF:-1 tvg-id="TV5MONDEChefs.fr" tvg-name="TV5MONDE Chefs | 法语美食文化" group-title="07 纪录片 / 自然 / 人文",TV5MONDE Chefs | 法语美食文化
+https://tvf-tv5ch.otteravision.com/tvf/tv5ch/tv5ch.m3u8
+#EXTINF:-1 tvg-id="GustoTV.ca" tvg-name="Gusto TV | 美食纪录英语" group-title="07 纪录片 / 自然 / 人文",Gusto TV | 美食纪录英语
+https://e75fc053c0d2406fb74cdd71d77e1a7f.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/RakutenTV-eu_GustoTV/playlist.m3u8
+#EXTINF:-1 tvg-id="VevoPop.us" tvg-name="Vevo Pop | 欧美流行MV" group-title="08 音乐 / 演唱会",Vevo Pop | 欧美流行MV
+https://amg00056-amg00056c6-rakuten-uk-3235.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Now80s.uk" tvg-name="Now 80s | 80年代流行音乐" group-title="08 音乐 / 演唱会",Now 80s | 80年代流行音乐
+https://lightning-now80s-samsungnz.amagi.tv/playlist720p.m3u8
+#EXTINF:-1 tvg-id="Totalmusic.uk" tvg-name="Totalmusic | 欧美热门音乐" group-title="08 音乐 / 演唱会",Totalmusic | 欧美热门音乐
+https://cdn.global.elektamedia.com/live/c7eds/Totalmusic/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 tvg-id="Totalmusic80s.uk" tvg-name="Totalmusic 80s | 80年代金曲" group-title="08 音乐 / 演唱会",Totalmusic 80s | 80年代金曲
+https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_80s/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 tvg-id="Totalmusic2000s.uk" tvg-name="Totalmusic 2000s | 2000年代" group-title="08 音乐 / 演唱会",Totalmusic 2000s | 2000年代
+https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_00s/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 tvg-id="TotalmusicConcerts.uk" tvg-name="Totalmusic Concerts | 演唱会" group-title="08 音乐 / 演唱会",Totalmusic Concerts | 演唱会
+https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Concerts/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 tvg-id="TotalmusicDance.uk" tvg-name="Totalmusic Dance | 舞曲" group-title="08 音乐 / 演唱会",Totalmusic Dance | 舞曲
+https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Dance/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 tvg-id="DeluxeMusic.de" tvg-name="Deluxe Music | 欧洲流行MV" group-title="08 音乐 / 演唱会",Deluxe Music | 欧洲流行MV
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
+#EXTINF:-1 tvg-id="DeluxeDance.de" tvg-name="Deluxe Dance | 电子舞曲" group-title="08 音乐 / 演唱会",Deluxe Dance | 电子舞曲
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
+#EXTINF:-1 tvg-id="DeluxeRap.de" tvg-name="Deluxe Rap | 嘻哈说唱" group-title="08 音乐 / 演唱会",Deluxe Rap | 嘻哈说唱
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
+#EXTINF:-1 tvg-id="CMCCountryMusic.us" tvg-name="CMC Country | 美国乡村音乐" group-title="08 音乐 / 演唱会",CMC Country | 美国乡村音乐
+https://hwlive.streamingmediahosting.com/14215-live/0_obd393sh/playlist.m3u8
+#EXTINF:-1 tvg-id="Carac2.ch" tvg-name="Carac 2 | 瑞士法语音乐电视" group-title="08 音乐 / 演唱会",Carac 2 | 瑞士法语音乐电视
+https://onefmhd.vedge.infomaniak.com/livecast/ik:onefmhd/manifest.m3u8
+#EXTINF:-1 tvg-id="Couleur3.ch" tvg-name="Couleur 3 | 瑞士法语音乐电台视频" group-title="08 音乐 / 演唱会",Couleur 3 | 瑞士法语音乐电台视频
+https://visualradio-rts-couleur3-d.akamaized.net/out/v1/6a1472634ad745f59a9e63ee8adbbc00/index.m3u8
+#EXTINF:-1 tvg-id="TVSMusicNetwork.us" tvg-name="TVS Music Network | 美国音乐" group-title="08 音乐 / 演唱会",TVS Music Network | 美国音乐
+https://rpn.bozztv.com/gusa/gusa-tvsmusic/index.m3u8
+#EXTINF:-1 tvg-id="France24English.fr" tvg-name="France 24 English | 英语低码率" group-title="09 备用线路 · 同一频道",France 24 English | 英语低码率
+https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_900.m3u8
+#EXTINF:-1 tvg-id="France24French.fr" tvg-name="France 24 Français | 法语低码率" group-title="09 备用线路 · 同一频道",France 24 Français | 法语低码率
+https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_900.m3u8
+#EXTINF:-1 tvg-id="CGTN.cn" tvg-name="CGTN English | 英语备用线路" group-title="09 备用线路 · 同一频道",CGTN English | 英语备用线路
+https://hlspackager.akamaized.net/live/DB/CGTN_ENGLISH/HLS/CGTN_ENGLISH.m3u8
+#EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-name="NHK World-Japan | 日本国际备用" group-title="09 备用线路 · 同一频道",NHK World-Japan | 日本国际备用
+https://media-osa.hls.nhkworld.jp/hls/w/live/master.m3u8
+#EXTINF:-1 tvg-id="DWEnglish.de" tvg-name="DW English | 德国之声备用" group-title="09 备用线路 · 同一频道",DW English | 德国之声备用
+https://amg01644-amg01644c1-amgplt0343.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg01644-amg01644c1-amgplt0343/playlist.m3u8
+#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-name="Al Jazeera English | 半岛英语备用" group-title="09 备用线路 · 同一频道",Al Jazeera English | 半岛英语备用
+https://live-hls-apps-aje-v3-fa.getaj.net/AJE/index.m3u8
+#EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="BBC News | 英国BBC新闻(第三方)" group-title="10 可选 · 地区限制风险",BBC News | 英国BBC新闻(第三方)
+https://mumbai-edge.smartplaytv.in/BBCNews/index.m3u8
+#EXTINF:-1 tvg-id="CNNInternational.us" tvg-name="CNN International | 美国CNN国际(第三方)" group-title="10 可选 · 地区限制风险",CNN International | 美国CNN国际(第三方)
+https://d3bp6dwmpbdajl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ury0meh5m4nzm/index.m3u8
+#EXTINF:-1 tvg-id="TV5MondeAsia.fr" tvg-name="TV5MONDE Asie | 法语综合(第三方)" group-title="10 可选 · 地区限制风险",TV5MONDE Asie | 法语综合(第三方)
+https://mumt03.tangotv.in/Dsly5z3HTV5MONDEASIA/index.m3u8
